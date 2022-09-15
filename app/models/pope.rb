@@ -1,0 +1,2 @@
+class Pope < ApplicationRecord
+end
